@@ -1,2 +1,6 @@
 # session2-test
-Bruh
+
+Hi my names Dominic.
+
+This is a session 2 test. 
+
